@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt=" Hello, I'm Bhavin, with a passion for frameworks and AI !" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://bmodhez.github.io"><img width="80%" alt="Hello, I'm Bhavin, with a passion for frameworks and AI !" src="/assets/gh-readme-header.png" /></a></p>
 
 <br />
 
