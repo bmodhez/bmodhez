@@ -1,5 +1,5 @@
 
- `calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient]
+ `calm_pink` [calm_pink][calm_pink] | `ambient_gradient` [ambient_gradient][ambient_gradient]
 
 👋 Hi, I'm Bhavin!
 
